@@ -3,6 +3,21 @@
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Python+student" alt="Typing SVG" /></a>
 </h3>
+
+<h3 align="left"> Skills: Python / C# / HTML / CSS / Java / Kotlin / </a>
+
+<details>
+  <summary>How to reach me:</summary>
+  <img src="https://photos.app.goo.gl/PGhGSbxweBhFo7Bs5">
+</details>
+
+
+
+
+
+
+
+
 <!--
 **DanzuSama/DanzuSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
