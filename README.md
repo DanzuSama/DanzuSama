@@ -8,7 +8,7 @@
 
 <details>
   <summary>How to reach me:</summary>
-  <img src="https://photos.app.goo.gl/PGhGSbxweBhFo7Bs5">
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/197813712@N05/52727191881/in/dateposted-public/" title="photo_2023-03-05_14-56-10"><img src="https://live.staticflickr.com/65535/52727191881_7e3ae6af0e_z.jpg" width="433" height="640" alt="photo_2023-03-05_14-56-10"></a>
 </details>
 
 
